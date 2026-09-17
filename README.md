@@ -1,18 +1,22 @@
 # Njakatiana Jacques Tsiorimalala
 
-### Développeur web full-stack & spécialiste SEO
+### Développeur web full-stack, WordPress & spécialiste SEO
 
-Je conçois des sites, des applications métier et des plateformes SaaS sur mesure, de l’architecture technique jusqu’à la mise en production.
+Je conçois des sites WordPress, des applications métier et des plateformes SaaS sur mesure, de l’architecture technique jusqu’à la mise en production.
 
 Depuis 2018, j’interviens sur l’ensemble du cycle de vie d’un projet web : analyse du besoin, conception de l’interface, développement front-end et back-end, modélisation des données, intégrations externes, déploiement et optimisation continue.
 
-Ma particularité est de réunir **développement full-stack et expertise SEO**. Je construis ainsi des solutions pensées dès le départ pour être rapides, maintenables, accessibles et correctement structurées pour les moteurs de recherche.
+Ma particularité est de réunir **développement full-stack, expertise WordPress et SEO**. Je construis ainsi des solutions pensées dès le départ pour être rapides, maintenables, accessibles et correctement structurées pour les moteurs de recherche.
 
 [Portfolio](https://jacques.idigital-revolution.com) · [Me contacter](mailto:jacques@idigital-revolution.com)
 
 ## Ce que je fais
 
 - conception et développement de plateformes SaaS et d’applications métier ;
+- création, refonte et maintenance de sites WordPress ;
+- développement de thèmes, fonctionnalités et plugins WordPress sur mesure ;
+- intégration de maquettes avec Elementor, Gutenberg et des thèmes personnalisés ;
+- personnalisation de boutiques et de parcours d’achat WooCommerce ;
 - création d’interfaces publiques, espaces clients et back-offices administratifs ;
 - développement d’API REST et modélisation de bases de données ;
 - intégration de services externes, paiements et automatisations documentaires ;
@@ -31,6 +35,25 @@ Ma particularité est de réunir **développement full-stack et expertise SEO**.
 | CMS & e-commerce | WordPress, Elementor, WooCommerce, PrestaShop, Shopify, Joomla           |
 | Infrastructure   | Docker, Nginx, VPS, SSL                                                  |
 | SEO & analyse    | Google Search Console, Google Analytics, Semrush, Screaming Frog, Ahrefs |
+
+## Développement WordPress
+
+J'interviens aussi bien sur des sites vitrines et des blogs éditoriaux que sur des plateformes e-commerce nécessitant des fonctionnalités métier spécifiques. Je peux prendre en charge un projet WordPress dans son intégralité ou intervenir sur une base existante.
+
+Mes prestations couvrent notamment :
+
+- l'installation, la configuration et la sécurisation de WordPress ;
+- la conception de sites avec Elementor, Gutenberg ou un thème PHP sur mesure ;
+- la refonte et la migration de sites existants sans perdre leurs fonctionnalités essentielles ;
+- le développement de plugins et d'interactions personnalisées en PHP et JavaScript ;
+- l'intégration et la personnalisation de WooCommerce ;
+- la création de types de contenus et de champs personnalisés avec ACF ;
+- l'intégration de formulaires, CRM, outils marketing et services externes ;
+- l'optimisation des performances, du responsive design et de l'expérience utilisateur ;
+- l'optimisation SEO technique et éditoriale : structure, métadonnées, contenus, images et maillage interne ;
+- la maintenance corrective et évolutive après la mise en ligne.
+
+Cette double compétence WordPress et développement sur mesure me permet d'aller au-delà de l'assemblage de thèmes et d'extensions : j'adapte réellement le CMS aux besoins métier du projet.
 
 ## Projets présentés
 
@@ -65,6 +88,36 @@ SaaS de facturation pour TPE et PME : clients, catalogue, devis, factures, paiem
 Écosystème de commercialisation et de suivi d’applications métier : catalogue, espace client, SSO, projets d’installation et support intégré.
 
 `Astro` · `React` · `Express` · `MySQL` · `Docker`
+
+### [EasyPartner — Refonte WordPress & Elementor](./EasyPartner/)
+
+Migration d’un thème PHP historique vers Elementor, avec conservation des fonctions de recrutement et intégration complète des offres et candidatures avec HubSpot.
+
+`WordPress` · `Elementor Pro` · `PHP` · `ACF` · `HubSpot`
+
+### [Architoi — Site vitrine & estimateur](./Architoi/)
+
+Projet réalisé en marque blanche : site WordPress consacré à l’architecture et à la rénovation, avec intégration fidèle d’une maquette Figma et formulaire multistep pour estimer un projet.
+
+`WordPress` · `GenerateBlocks` · `JavaScript` · `React Router` · `Figma`
+
+### [Blogs WordPress — conception de A à Z](<./Blogs Wordpress/>)
+
+Création complète de cinq blogs thématiques à partir de leurs seuls noms de domaine : positionnement, design, développement WordPress, rédaction et optimisation SEO.
+
+`WordPress` · `Design web` · `Rédaction` · `SEO` · `Maillage interne`
+
+### [Tah Voyage Madagascar — Refonte WordPress & SEO](./TahvoyageMadagascar/)
+
+Refonte complète du site d'un tour-opérateur : installation et configuration de WordPress, conception sous Elementor, réécriture des contenus et optimisation SEO.
+
+`WordPress` · `Elementor` · `Hello Elementor` · `Rédaction web` · `SEO`
+
+### [Light Genius — Configurateur de néon personnalisé](./LightGenius/)
+
+Plugin sur mesure permettant de personnaliser un néon, d'en visualiser le rendu et le prix en temps réel, puis de transmettre la configuration au parcours de commande.
+
+`PHP` · `JavaScript` · `HTML` · `CSS` · `WordPress`
 
 ## Mon approche
 
