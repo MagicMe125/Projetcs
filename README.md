@@ -77,6 +77,21 @@ Cette approche s’appuie sur quatre principes :
 3. intégrer la performance, la sécurité et le SEO dès la conception ;
 4. assurer la qualité jusqu’au déploiement et au suivi en production.
 
+## Développement assisté par l’IA
+
+J’intègre des assistants comme **Codex** et **Claude** dans mon processus de développement afin d’accélérer l’écriture du code, l’exploration de solutions, le débogage, la refactorisation et la documentation.
+
+L’IA intervient comme un outil de productivité. Je reste responsable de l’ensemble des décisions qui structurent le produit :
+
+- analyse du besoin et définition du périmètre ;
+- conception des fonctionnalités et des parcours utilisateurs ;
+- choix de l’architecture, des technologies et du modèle de données ;
+- intégration des différentes briques du projet ;
+- relecture, adaptation et validation du code généré ;
+- tests, sécurité, qualité et mise en production.
+
+Cette méthode me permet de prototyper et de livrer plus rapidement, tout en conservant la maîtrise technique et fonctionnelle de chaque projet.
+
 ## Parcours
 
 - développement web et gestion de projets depuis 2018 ;
